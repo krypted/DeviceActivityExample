@@ -8,3 +8,4 @@ A few things to know:
 * The app requires authorization (understandable but there isn't any error correction in the experimentation app to correct for a state where a device hasn't granted it).
 * We have to import FamilyControls, ManagedSettings, and DeviceActivity according to the type of atomic operation we're trying to complete
 * There are placeholders to implement scheduled events
+* There are placeholders to "encourage" and "discourage" activities
